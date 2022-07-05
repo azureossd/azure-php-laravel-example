@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome Laravel !
+                    Welcome Laravel ! 07-05-2022
                 </div>
 
                 <div class="links">
