@@ -16,6 +16,6 @@
         "lodash": "^4.17.23",
         "resolve-url-loader": "^5.0.0",
         "sass": "^1.98.0",
-        "sass-loader": "^8.0.0"
+        "sass-loader": "^16.0.7"
     }
 }
